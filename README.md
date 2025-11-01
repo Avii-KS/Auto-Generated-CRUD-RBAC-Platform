@@ -34,9 +34,6 @@ _Key Features of the Platform_
 
 ## 📊 System Components
 
-![User Journey Flowchart](./images/User%20Journey%20Flowchart.png)
-_User Journey and Workflow_
-
 ![Database](./images/DataBase.png)
 _Database Schema and Structure_
 
@@ -45,15 +42,13 @@ _Database Users and Access Control_
 
 ### User Journey
 
-![User Journey Flowchart](images\User Journey Flowchart.png)
+![User Journey Flowchart](./images/User%20Journey%20Flowchart.png)
+_User Journey and Workflow_
 
 ### Database Schema
 
 ![Database](./images/DataBase.png)
 
-### Database Users and Permissions
-
-![Database Users](images\DataBase Users.png)
 
 ## 🚀 Quick Start
 
