@@ -63,8 +63,8 @@ _User Journey and Workflow_
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/low-code-crud-platform.git
-   cd low-code-crud-platform
+   git clone https://github.com/yourusername/Auto-Generated-CRUD-RBAC-Platform.git
+   cd Auto-Generated-CRUD-RBAC-Platform
    ```
 
 2. Install dependencies:
