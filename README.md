@@ -1,6 +1,6 @@
 # Low-Code CRUD Platform with RBAC
 
-![Home Page](images/Home Page.png)
+![Home Page](./images/Home%20Page.png)
 _Welcome to our Low-Code CRUD Platform_
 
 A powerful low-code platform that enables rapid application development through dynamic model definitions and automated CRUD API generation with built-in Role-Based Access Control (RBAC).
@@ -11,13 +11,13 @@ A powerful low-code platform that enables rapid application development through 
 
 ## 🎯 Platform Overview
 
-![System Architecture](images/System Architecture.png)
+![System Architecture](./images/System%20Architecture.png)
 _System Architecture Overview_
 
-![Technology Stack](images/Technology Stack.png)
+![Technology Stack](./images/Technology%20Stack.png)
 _Technology Stack Used in the Platform_
 
-![Features](/images/Features.png)
+![Features](./images/Features.png)
 _Key Features of the Platform_
 
 ## 🌟 Features
@@ -34,13 +34,13 @@ _Key Features of the Platform_
 
 ## 📊 System Components
 
-![User Journey Flowchart](images\User Journey Flowchart.png)
+![User Journey Flowchart](./images/User%20Journey%20Flowchart.png)
 _User Journey and Workflow_
 
-![Database](images\DataBase.png)
+![Database](./images/DataBase.png)
 _Database Schema and Structure_
 
-![Database Users](images\DataBase Users.png)
+![Database Users](./images/DataBase%20Users.png)
 _Database Users and Access Control_
 
 ### User Journey
@@ -109,10 +109,10 @@ Visit [http://localhost:3000](http://localhost:3000) to access the platform.
 
 ### Model Definition and CRUD Generation
 
-![Model Definition](images\Model Definition.png)
+![Model Definition](./images/Model%20Definition.png)
 _Create and manage your data models through an intuitive interface_
 
-![Dynamic CRUD Generation Process](images\Dynamic CRUD Generation Process.png)
+![Dynamic CRUD Generation Process](./images/Dynamic%20CRUD%20Generation%20Process.png)
 _Automatic CRUD API generation based on your model definitions_
 
 ### Creating a New Model
