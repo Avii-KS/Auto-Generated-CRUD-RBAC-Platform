@@ -70,7 +70,7 @@ _User Journey and Workflow_
 2. Install dependencies:
 
    ```bash
-   npm install
+   npm install/npm install --legacy-peer-deps
    # or
    pnpm install
    ```
